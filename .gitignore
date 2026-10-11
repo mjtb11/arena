@@ -1,0 +1,7 @@
+node_modules/
+out/
+deliver/
+__pycache__/
+*.pyc
+video/.temp/
+video/public/audio/narration_mono.wav
