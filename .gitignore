@@ -1,10 +1,1 @@
 node_modules/
-out/
-deliver/*
-!deliver/qezelbash_final.mp4
-!deliver/contact_sheet_A.png
-!deliver/contact_sheet_B.png
-__pycache__/
-*.pyc
-video/.temp/
-video/public/audio/narration_mono.wav
